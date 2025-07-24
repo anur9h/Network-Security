@@ -8,3 +8,4 @@ xgboost
 python-dotenv
 pymongo
 
+e .
